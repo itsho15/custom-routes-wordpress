@@ -10,6 +10,7 @@ require_once get_template_directory . '/routes/web.php';
 examples in web.php
 
 require_once 'route.php';
+
 $route = new Route();
 
 example class function
