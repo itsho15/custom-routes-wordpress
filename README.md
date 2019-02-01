@@ -2,8 +2,8 @@
 add custom routes to wordpress plugin or theme
 
 how to use
-
-add this line to your functions.php in theme
+1-download and unzip files into your theme folder
+2-add this line to your functions.php in theme
 
 require_once get_template_directory() . '/routes/web.php';
 
