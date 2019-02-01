@@ -5,7 +5,7 @@ how to use
 
 add this line to your functions.php in theme
 
-require_once get_template_directory . '/routes/web.php';
+require_once get_template_directory() . '/routes/web.php';
 
 examples in web.php
 
